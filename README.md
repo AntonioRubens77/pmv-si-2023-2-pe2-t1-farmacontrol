@@ -1,26 +1,36 @@
 # FARMACONTROL
 
-O crescimento do setor farmacêutico é impressionante, as expectativas de crescimento são de até 10,5% em 2023, de acordo com uma pesquisa realizada pela consultoria IQVIA para o varejo farmacêutico, já no primeiro semestre de 2023, o IDV (Instituto para Desenvolvimento do Varejo) fez um relatório que expressa o aumento de 18% na receita de vendas de medicamentos e artigos farmacêuticos, 
-Além das vendas no varejo, temos as vendas online que representam 4,7% das vendas totais atualmente, sendo que antes da pandemia era de 1,4% de acordo com a Abrafarma (Associação Brasileira das Redes de Farmácias e Drogarias), que inclui as 26 principais redes de farmácias.
-Com todo esse crescimento se faz necessário o uso de algum sistema para auxiliar a gestão de clientes, fluxo de entrada e saída, controle de estoque. Nosso sistema tem como objetivo, resolver os problemas de gestão de estoque, melhorar o processo de compras de produtos e fidelizar os clientes através de um software capaz de garantir as estratégias de do negócio e melhor relação com os clientes e fornecedores.
-Nosso sistema é capaz de registrar todos os clientes, as vendas, controlar os estoques, variedade de produtos por diferentes características e os fornecedores, gerando registros das operações e indicadores analíticos para medir a gerenciar o andamento do negócio, perceber a oportunidades e também os erros.
+Projeto acadêmico de modelagem de processos desenvolvido na **PUC Minas** para apoiar a gestão de uma farmácia.
 
+## Sobre o projeto
 
-## Integrantes
+O FARMACONTROL foi concebido para organizar informações essenciais do varejo farmacêutico, reduzir falhas operacionais e apoiar a tomada de decisão. A solução contempla o registro e o acompanhamento de clientes, vendas, estoque, produtos, fornecedores e operações do negócio.
 
-Antonio Rubens Oliveira Junqueira
+## Objetivos
 
-Pedro Vinicius Ribeiro Teixeira Justino
+- Melhorar o controle de entrada e saída de produtos;
+- Apoiar o planejamento de compras e a gestão de fornecedores;
+- Organizar o cadastro de clientes e o histórico de vendas;
+- Disponibilizar registros e indicadores para acompanhamento gerencial;
+- Contribuir para a fidelização dos clientes e a eficiência operacional.
 
-Augusto Gabriel Lomba Pires
+## Estrutura do repositório
 
-Jaime Bispo dos Santos
+- `codigo/`: exportação do projeto desenvolvido na plataforma Sydle One;
+- `documentacao/`: documentação acadêmica e técnica;
+- `artefatos/`: artefatos de processos e dados;
+- `CITATION.cff`: informações para citação do projeto.
 
-Luiza Barros
+## Equipe
 
-João Gabriel Galdino de Oliveira
+- Antonio Rubens Oliveira Junqueira
+- Augusto Gabriel Lomba Pires
+- Jaime Bispo dos Santos
+- João Gabriel Galdino de Oliveira
+- Luiza Barros
+- Pedro Vinicius Ribeiro Teixeira Justino
 
+## Orientação
 
-## Professor
-
-Eveline Alonso Veloso
+**Professora:** Eveline Alonso Veloso  
+**Instituição:** PUC Minas
