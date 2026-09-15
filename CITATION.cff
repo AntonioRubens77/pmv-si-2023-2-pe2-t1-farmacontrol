@@ -1,40 +1,27 @@
-# YAML 1.2
----
-authors: 
-  - family-names: Oliveira Junqueira
-    given-names: Antonio Rubens
-  - family-names: Ribeiro Teixeira Justino
-    given-names: Pedro Vinicius 
-  - family-names: Barros
-    given-names: Luiza
-  - family-names: Bispo dos Santos
-    given-names: Jaime
-  - family-names: Lomba Pires
-    given-names: Augusto gabriel
-  - family-names: Galdino de Oliveira
-    given-names: João Gabriel
-    
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: Veloso
-    given-names: Eveline Alonso
-  
-cff-version: "1.1.0"
-keywords: 
-  - "Modelagem de Processos de Negócios"
-  - "Palavra chave 2"
-  - "Palavra chave 3"
-message: |
-    "If you use this software, please cite it using these metadata.
-    Se você utilizar este software, por favor cite-o utilizando estes metadados."
-repository-code: "https://github.com/url do projeto"
+cff-version: 1.2.0
+message: "Se você utilizar este projeto, cite-o usando estes metadados."
 title: "FARMACONTROL"
-abstract: |
-    "
-    O crescimento do setor farmacêutico é impressionante, as expectativas de crescimento são de até 10,5% em 2023, de acordo com uma pesquisa realizada pela consultoria IQVIA para o varejo farmacêutico, já no primeiro semestre de 2023, o IDV (Instituto para Desenvolvimento do Varejo) fez um relatório que expressa o aumento de 18% na receita de vendas de medicamentos e artigos farmacêuticos, 
-Além das vendas no varejo, temos as vendas online que representam 4,7% das vendas totais atualmente, sendo que antes da pandemia era de 1,4% de acordo com a Abrafarma (Associação Brasileira das Redes de Farmácias e Drogarias), que inclui as 26 principais redes de farmácias.
-Com todo esse crescimento se faz necessário o uso de algum sistema para auxiliar a gestão de clientes, fluxo de entrada e saída, controle de estoque. Nosso sistema tem como objetivo, resolver os problemas de gestão de estoque, melhorar o processo de compras de produtos e fidelizar os clientes através de um software capaz de garantir as estratégias de do negócio e melhor relação com os clientes e fornecedores.
-Nosso sistema é capaz de registrar todos os clientes, as vendas, controlar os estoques, variedade de produtos por diferentes características e os fornecedores, gerando registros das operações e indicadores analíticos para medir a gerenciar o andamento do negócio, perceber a oportunidades e também os erros.
-Breve descrição do projeto
-    "
-...
+type: software
+abstract: >-
+  Projeto acadêmico de modelagem de processos para apoio à gestão de farmácias,
+  contemplando clientes, vendas, estoque, produtos, fornecedores e indicadores
+  operacionais.
+authors:
+  - family-names: "Oliveira Junqueira"
+    given-names: "Antonio Rubens"
+  - family-names: "Lomba Pires"
+    given-names: "Augusto Gabriel"
+  - family-names: "Bispo dos Santos"
+    given-names: "Jaime"
+  - family-names: "Galdino de Oliveira"
+    given-names: "João Gabriel"
+  - family-names: "Barros"
+    given-names: "Luiza"
+  - family-names: "Ribeiro Teixeira Justino"
+    given-names: "Pedro Vinicius"
+repository-code: "https://github.com/AntonioRubens77/pmv-si-2023-2-pe2-t1-farmacontrol"
+keywords:
+  - "modelagem de processos"
+  - "gestão farmacêutica"
+  - "controle de estoque"
+  - "Sydle One"
